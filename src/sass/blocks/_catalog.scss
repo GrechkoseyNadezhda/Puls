@@ -110,7 +110,7 @@
         }
         &__wraper {
             display: flex;
-            width: calc(200% + 20px);
+            width: calc(200% + 17px);
         }
         &__content {
             width: 50%;
@@ -162,7 +162,7 @@
             bottom: 0;
             display: block;
             left: 50%;
-            transform: translateX(calc(-50% - 19px));
+            transform: translateX(calc(-50% - 10px));
             margin-top: 17px;
             font-size: 14px;
             font-weight: 500;
